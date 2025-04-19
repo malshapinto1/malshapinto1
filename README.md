@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @malshapinto
 
 <div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+%F0%9F%91%8B;I'm+Malsha+Pinto)
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+%F0%9F%91%8B;I'm+Malsha+Pinto">
+
 
   
   <p align="center">
