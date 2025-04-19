@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @malshapinto
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=¡Hola!+👋;I'm+Malsha Pinto" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=¡Hola!+👋;I'm+Malsha Pinto" alt="Typing Animation" /> 
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sethmidu&label=PROFILE+VISITS+🌐&color=008080&style=flat-square" alt="Profile views" />
